@@ -1,0 +1,11 @@
+0x000  // postive 0
+0x100  // negative 0
+0x010  // smallest normal
+0x110  // smallest neg normal
+0x0f0  // +inf
+0x1f0  // -inf
+0x001  // smallest denorm
+0x101  // negive smallest denorm
+0x0ef  // biggest number
+0x1ef  // negative biggest number
+
